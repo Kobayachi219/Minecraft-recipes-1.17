@@ -35,8 +35,10 @@ installation method*
 11)Right click. Click 'Extract Here'.
 ![image](https://user-images.githubusercontent.com/85094885/166610189-7f32fede-4f2e-4efa-bba4-363e726453e3.png)
 
-12)Enjoy!
-![image](https://user-images.githubusercontent.com/85094885/166610272-9852296a-6049-4635-aca0-db1be4dfa952.png)
+12)Delete File.
+![image](https://user-images.githubusercontent.com/85094885/166610369-d8ed4348-8bea-4bb3-9667-3f56c6dbba08.png)
+
+13)Enloy to game!!
 
 
 --If you enjoy give star pls--
