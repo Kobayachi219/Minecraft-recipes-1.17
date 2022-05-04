@@ -24,7 +24,8 @@ installation method*
 ![image](https://user-images.githubusercontent.com/85094885/166609858-f8331711-e631-4c8e-a688-db46c3bee00a.png)
 
 7)Press into the world that you want to install the data pack.
-![image](https://user-images.githubusercontent.com/85094885/166609950-31783863-5398-4025-b04c-3d86e49cab2f.png)
+![image](https://user-images.githubusercontent.com/85094885/166610969-73b75221-353b-4160-874e-635374c9d49d.png)
+
 
 9)Press into the 'datapack' file.
 ![image](https://user-images.githubusercontent.com/85094885/166610007-2b1fd9d2-0f5b-4ca6-8c99-b8c657d91017.png)
